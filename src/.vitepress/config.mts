@@ -2,9 +2,12 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  lang: 'fr-FR',
   title: "Les Amarels",
   description: "ASL Le Domaine des Amarels",
   themeConfig: {
+    logo: '/logo.svg',
+
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
@@ -22,7 +25,26 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+      { icon: 'github', link: 'https://github.com/lesamarels/web' }
+    ],
+
+    search: {
+      provider: 'local'
+    },
+
+    lastUpdated: {
+      text: 'Last updated',
+      formatOptions: {
+        dateStyle: 'short',
+        timeStyle: 'short',
+        forceLocale: true
+      }
+    },
+
+    footer: {
+      message: '',
+      copyright: 'Copyright © 2018-present ASL Le Domaine des Amarels'
+    }
+
   }
 })

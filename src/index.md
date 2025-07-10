@@ -6,6 +6,9 @@ hero:
   name: "Les Amarels"
   text: 
   tagline: Genas
+  image:
+    src: /logo.svg
+    alt: Les Amarels
   actions:
     - theme: brand
       text: Action 1
