@@ -11,6 +11,8 @@ tags:
 📅 **Date :** 19/06/2025  
 📍 **Lieu :** Salle Le Genêt, Genas
 
+> [!CAUTION] Version PDF (signée)
+
 ## Constitution
 
 |                         |   Nombre    |
@@ -90,8 +92,11 @@ Clôture des comptes au 30 avril 2025. Plus de détails dans le [bilan financier
 	- **29 mai 2026**
 	- Budget prévisionnel : apéritif 50 €
 - 🧭 Assemblée générale 2026
-	- mars 2026 (hors vacances scolaires)
+	- mars 2026 (hors vacances scolaires) - salle réservée
 	- Budget prévisionnel : apéritif 50 €
+
+> [!IMPORTANT] Evolution depuis l'AG : assemblée générale 2026
+> Organisation de la prochaine AG le **26 mars 2026** (salle Le Genêt réservée).
 
 ### Entretien
 
@@ -110,6 +115,9 @@ Clôture des comptes au 30 avril 2025. Plus de détails dans le [bilan financier
 	- Location domaine internet (10 ans)
 	- Budget prévisionnel : 150 €
 - 🧾 **Renouvellement des statuts** pour intégrer la dématérialisation et mise en conformité (adresse du président) prévu à l'AG 2026
+
+> [!IMPORTANT] Evolution depuis l'AG : site internet
+> Achat du site internet [lesamarels.fr](https://lesamarels.fr) (10 ans) : 72 €.
 
 ### Participation annuelle
 
@@ -221,9 +229,15 @@ La séance est levée à **20h41**.
 | **R4.2 Election président**         |  15  |   0    |  0   | ➡️ Approuvé à l’unanimité. |
 
 | **Décisions**                                          | Statut   |
-| ------------------------------------------------------ | -------- |
+| ------------------------------------------------------ | :------: |
 | **D1. Marquage des places de parking (5 et 3 places)** | à faire  |
 | **D2. Création d'un groupe de communication interne**  | en cours |
+| **D3. Organisation de la Fête des Voisins (29 mai 2026)** | à faire  |
+| **D4. Organisation de l'AG 2026 (mars 2026)**          | fait     |
+| **D5. Entretien des égouts**                           | à faire  |
+| **D6. Lancement d'un site internet**                   | fait     |
+| **D7. Renouvellement des statuts**                     | à faire  |
+
 
 ---
 
