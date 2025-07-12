@@ -11,11 +11,11 @@ hero:
     alt: Les Amarels
   actions:
     - theme: brand
-      text: Action 1
-      link: /markdown-examples
+      text: Documentation
+      link: /docs
     - theme: alt
-      text: Action 2
-      link: /api-examples
+      text: Infos
+      link: /blog
 
 features:
   - title: Feature A
