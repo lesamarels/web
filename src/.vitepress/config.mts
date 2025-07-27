@@ -34,9 +34,9 @@ export default defineConfig({
               text: '2025',
               collapsed: false,
               items: [
-                { text: 'Convocation', link: '/docs/ag/2025/convocation' },
-                { text: 'Bilan financier', link: '/docs/ag/2025/bilan' },
-                { text: 'Procès-verbal', link: '/docs/ag/2025/pv' },
+                { text: 'Convocation', link: '/docs/assemblees/2025/convocation' },
+                { text: 'Bilan financier', link: '/docs/assemblees/2025/bilan' },
+                { text: 'Procès-verbal', link: '/docs/assemblees/2025/pv-ag' },
               ]
             }
           ]

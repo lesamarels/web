@@ -11,7 +11,7 @@ tags:
 📅 **Date :** 19/06/2025  
 📍 **Lieu :** Salle Le Genêt, Genas
 
-> [!CAUTION] Version PDF (signée)
+> [!NOTE] Version signée disponible sur demande.
 
 ## Constitution
 
@@ -198,14 +198,14 @@ Inscriptions possibles :
 
 ### Marquage des places de parking (5 et 3 places)
 
-*Sujet soulevé par Isabelle (48), avait déjà été soulevé en 2023.*
+*Sujet soulevé par Isabelle, avait déjà été soulevé en 2023.*
 
 - Décision : à faire
 - Action : se renseigner auprès de la mairie et budgéter [Geoffrey]
 
 ### Création d'un groupe de communication interne
 
-*Sujet soulevé par Geoffrey (22).*
+*Sujet soulevé par Geoffrey.*
 
 Objectifs : faciliter la communication (rappels espaces verts, etc.), notifier des événements, etc.
 
@@ -243,5 +243,5 @@ La séance est levée à **20h41**.
 
 |      Président      |     Trésorier     |      Secrétaire       |
 | :-----------------: | :---------------: | :-------------------: |
-| Geoffrey Petri (22) | Nancy Mouchet (6) | Isabelle Alberti (48) |
+| Geoffrey Petri      | Nancy Mouchet     | Isabelle Alberti      |
 |      <br><br>       |                   |                       |

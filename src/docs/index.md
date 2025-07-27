@@ -2,4 +2,4 @@
 
 ## 2025
 
-- [Assemblée générale 2025](ag/2025/pv)
+- [Assemblée générale 2025](assemblees/2025/pv-ag)
