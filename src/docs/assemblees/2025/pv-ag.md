@@ -161,7 +161,7 @@ Un rappel collectif est effectué pour améliorer le respect du cadre de vie :
 - 🧹 Chaque résident est responsable du **nettoyage des abords** de sa maison (trottoirs)
 - 🌳 Les **haies** ne doivent pas dépasser la hauteur réglementaire (cf. règlement du lotissement : 2,00m)
 - 🔇 **Travaux et nuisances sonores** autorisés uniquement :
-	- lundi à vendredi : **8h30–12h** / **15h30–19h30**
+	- lundi à vendredi : **8h30–12h** / **14h30–19h30**
 	- samedi : **9h–12h** / **15h–19h**
 	- dimanche et jours fériés : **10h–12h**
 - 🔥 Le brûlage des déchets verts est strictement interdit
