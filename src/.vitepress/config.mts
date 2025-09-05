@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import mdFootnote from 'markdown-it-footnote'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -82,5 +83,10 @@ export default defineConfig({
       copyright: 'Copyright © 2017-present ASL Le Domaine des Amarels'
     }
 
-  }
+  },
+  markdown: {
+  config: (md) => {
+    md.use(mdFootnote);
+  },
+},
 })

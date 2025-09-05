@@ -160,13 +160,13 @@ Un rappel collectif est effectué pour améliorer le respect du cadre de vie :
 
 - 🧹 Chaque résident est responsable du **nettoyage des abords** de sa maison (trottoirs)
 - 🌳 Les **haies** ne doivent pas dépasser la hauteur réglementaire (cf. règlement du lotissement : 2,00m)
-- 🔇 **Travaux et nuisances sonores** autorisés uniquement :
+- 🔇 **Travaux et nuisances sonores** autorisés uniquement[^1] :
 	- lundi à vendredi : **8h30–12h** / **14h30–19h30**
 	- samedi : **9h–12h** / **15h–19h**
 	- dimanche et jours fériés : **10h–12h**
-- 🔥 Le brûlage des déchets verts est strictement interdit
+- 🔥 Le brûlage des déchets verts est strictement interdit[^1]
 
-Source : [Genas le mag n. 62 (avril 2025)](https://genas.fr/wp-content/uploads/2025/04/GenasNewMag_62_WEB.pdf)
+[^1]: [Pour un été responsable, serein et agréable, Genas le mag n. 62 (avril 2025), page 21](https://genas.fr/wp-content/uploads/2025/04/GenasNewMag_62_WEB.pdf#page=21)
 
 > [!TIP] Un grand merci pour votre participation lors de l'entretien des espaces verts communs !
 
