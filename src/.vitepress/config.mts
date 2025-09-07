@@ -12,7 +12,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Docs', link: '/docs', activeMatch: '/docs' },
-      { text: 'Sujets', link: '/roadmap', activeMatch: '/roadmap' },
+      { text: 'Sujets', link: '/sujets', activeMatch: '/sujets' },
       { text: 'Blog', link: '/blog', activeMatch: '/blog' }
     ],
 
