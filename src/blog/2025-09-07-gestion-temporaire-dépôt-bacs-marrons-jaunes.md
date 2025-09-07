@@ -19,7 +19,7 @@ Vous pouvez suivre l’avancée du sujet ici : [Sujets](/sujets).
 Il sera également abordé lors de la prochaine AG (mars 2026).  
 
 ::: warning Enfin, un petit rappel
-Nos allées, trottoirs et espaces verts sont partagés par tous. Les garder dégagés et entretenus, c’est préserver notre cadre de vie et notre bonne entente… mais aussi assurer le passage du camion poubelle et l’**accès des secours** au lotissement.
+Nos allées, trottoirs et espaces verts sont partagés par tous. Les garder dégagés et entretenus, c’est préserver notre cadre de vie et notre bonne entente… mais aussi assurer le passage du camion de ramassage et l’**accès des secours** au lotissement.
 :::
 
 Merci pour votre coopération.  
