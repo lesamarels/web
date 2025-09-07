@@ -15,7 +15,7 @@ Mettre tous les bacs au même endroit n’étant pas viable, le bureau propose u
 Un plan est joint à ce mail : merci de déposer vos bacs **uniquement sur les zones marquées en vert** (et non sur les zones rouges), afin d’éviter les risques pour les piétons et véhicules.  
 
 Cette solution n’est pas idéale, mais elle doit permettre de tenir jusqu’à ce qu’une solution plus durable soit trouvée avec la Mairie, le SMND et Les Cantarelles.  
-Vous pouvez suivre l’avancée du sujet ici : [Sujets](/sujets).  
+Vous pourrez suivre l’avancée du sujet ici : [Sujets](/sujets).  
 Il sera également abordé lors de la prochaine AG (mars 2026).  
 
 ::: warning Enfin, un petit rappel
