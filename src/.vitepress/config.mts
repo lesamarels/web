@@ -33,21 +33,21 @@ export default defineConfig({
           collapsed: false,
           items: [
             { 
-              text: '2025',
-              collapsed: false,
-              items: [
-                { text: 'Convocation', link: '/docs/assemblees/2025/convocation' },
-                { text: 'Bilan financier', link: '/docs/assemblees/2025/bilan' },
-                { text: 'Procès-verbal', link: '/docs/assemblees/2025/pv-ag' },
-              ]
-            },
-            { 
               text: '2026',
               collapsed: false,
               items: [
                 { text: 'Convocation', link: '/docs/assemblees/2026/convocation' },
                 // { text: 'Bilan financier', link: '/docs/assemblees/2025/bilan' },
                 // { text: 'Procès-verbal', link: '/docs/assemblees/2025/pv-ag' },
+              ]
+            },
+            { 
+              text: '2025',
+              collapsed: false,
+              items: [
+                { text: 'Convocation', link: '/docs/assemblees/2025/convocation' },
+                { text: 'Bilan financier', link: '/docs/assemblees/2025/bilan' },
+                { text: 'Procès-verbal', link: '/docs/assemblees/2025/pv-ag' },
               ]
             }
           ]
