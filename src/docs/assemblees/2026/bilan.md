@@ -1,14 +1,14 @@
 ---
-title: "Bilan financier AG 2025"
-date: 2025-06-19
+title: "Bilan financier AG 2026"
+date: 2026-03-26
 tags:
   - bilan
-  - ag/2025
+  - ag/2026
 ---
 # Bilan financier de l'ASL Le Domaine des Amarels
 
-📅 **Exercice : 2024**  
-💰 **Date de clôture :** 30 avril 2025
+📅 **Exercice : 2025**  
+💰 **Date de clôture :** 26 mars 2026
 
 ## Situation de trésorerie
 
@@ -60,4 +60,4 @@ tags:
 
 ---
 
-> ✅ Ce bilan a été présenté et approuvé lors de l’Assemblée Générale du 19 juin 2025.
+> ✅ Ce bilan a été présenté et approuvé lors de l’Assemblée Générale du 23 mars 2026.

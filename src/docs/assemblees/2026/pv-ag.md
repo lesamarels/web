@@ -1,14 +1,14 @@
 ---
-title: "Procès-verbal AG 2025"
-date: 2025-06-19
+title: "Procès-verbal AG 2026"
+date: 2026-03-26
 tags:
   - pv
-  - ag/2025
+  - ag/2026
 ---
-# Procès-verbal de l’Assemblée Générale 2025
+# Procès-verbal de l’Assemblée Générale 2026
 **ASL _Le Domaine des Amarels_**
 
-📅 **Date :** 19/06/2025  
+📅 **Date :** 2026-03-26  
 📍 **Lieu :** Salle Le Genêt, Genas
 
 > [!NOTE] Version signée disponible sur demande.
@@ -19,70 +19,96 @@ tags:
 | ----------------------- | :---------: |
 | Lots (A)                |   **24**    |
 | Quorum (A / 2 + 1)      |   **13**    |
-| Membres présents        |    **9**    |
-| Membres représentés     |    **6**    |
-| Total voix représentées | **15**/24   |
+| Membres présents        |    **13**    |
+| Membres représentés     |    **4**    |
+| Total voix représentées | **17**/24   |
 
 **➡️ Quorum atteint : ✅ OK**
 
 ## Ordre du jour
 
-1. [Ouverture de la séance](#ouverture-de-la-séance)
-1. [Rapport moral et faits marquants 2024-25](#rapport-moral-et-faits-marquants-2024-25)
-1. [Rapport financier 2024](#rapport-financier-2024-25)
-1. [Projets, budget prévisionnel et cotisation annuelle](#projets-budget-prévisionnel-et-cotisation-annuelle)
-1. [Mandats du syndicat](#mandats-du-syndicat)
-1. [Rappels des règles de vie collective](#rappels-des-règles-de-vie-collective)
-1. [Questions diverses](#questions-diverses)
-1. [Clôture de la séance](#clôture-de-la-séance)
+1. [Rapport moral et faits marquants](#rapport-moral-et-faits-marquants)
+2. [Rapport financier](#rapport-financier)
+3. [Projets, budget prévisionnel et cotisation annuelle](#projets-budget-previsionnel-et-cotisation-annuelle)
+4. [Mandats du syndicat](#mandats-du-syndicat)
+5. [Questions diverses](#questions-diverses)
+6. [Rappels des règles de vie collective](#rappels-des-regles-de-vie-collective)
 
 ## Ouverture de la séance
 
-La séance est ouverte à **20h05** par le président, Geoffrey Petri.
+La séance est ouverte à **19h35** par le président, Geoffrey Petri.
 
-## Rapport moral et faits marquants 2024-2025
+## Rapport moral et faits marquants
 
-Présenté par le président de l’ASL.
+_Présenté par le président de l’ASL._
+
+### Communication
+
+- Lancement d'un site internet : [lesamarels.fr](https://lesamarels.fr)
+- Création d'une communication interne : groupe WhatsApp
 
 ### Entretien
 
 - ✅ Entretiens des **espaces verts**
-	- 26 octobre 2024
-	- 19 avril 2025
+	- 11 octobre 2025
+	- 25 avril 2026
+- 🧼 Vérification et **entretien des égouts**
+	- 12 mars 2026
+	- Passage caméra, curage/hydrocurage, diagnostic
+	- Petite casse d'un égoût dans l'aile Est — sans impact à ce stade
+	- Pas de rat signalé 🐀
+	- Budget : ~~700 €~~ 789,80 €
+- 🅿️ Mise en place de bandes pour délimiter les places de parking
 
 ### Problèmes
 
 - 🚓 Problèmes de **voitures "tampon"** repérées dans le lotissement
-	- pendant les vacances scolaires
-	- 5 véhicules
-	- plusieurs appels à la police/gendarmerie ont été nécessaires
-	- merci pour votre vigilance
-- 🗑️ Problème de circulation des **éboueurs**
-	- difficulté de passage dans la voie privée liée au stationnement gênant
+	- 2 véhicules
+	- Pas d'appels à la gendarmerie
+	- Merci pour votre vigilance
+- ♻️ SMND — Ramassage des **déchets**
+	- Difficulté de passage dans la voie privée liée au stationnement gênant
+	- Modification du ramassage limité à l'allée centrale à partir du 7 juillet 2025
+	- Adaptations suite à ce changement
+
+### Rappel des décisions 2025
+
+| **Décisions**                                             | Statut  |
+| --------------------------------------------------------- | :-----: |
+| **D1. Marquage des places de parking (5 et 3 places)**    |  fait   |
+| **D2. Création d'un groupe de communication interne**     |  fait   |
+| **D3. Organisation de la Fête des Voisins (29 mai 2026)** | à faire |
+| **D4. Organisation de l'AG 2026 (mars 2026)**             |  fait   |
+| **D5. Entretien des égouts**                              |  fait   |
+| **D6. Lancement d'un site internet**                      |  fait   |
+| **D7. Renouvellement des statuts**                        | à faire |
 
 ### Vote
 
 | Résolution 1      | Pour | Contre | Abs. | Résultat                   |
 | :---------------- | :--: | :----: | :--: | :------------------------- |
-| **Rapport moral** |  15  |   0    |  0   | ➡️ Approuvé à l’unanimité. |
+| **Rapport moral** |  17  |   0    |  0   | ➡️ Approuvé à l’unanimité. |
 
-> [!IMPORTANT] Evolution depuis l'AG : ramassage des poubelles
-> Courrier du SMND indiquant que le ramassage des poubelles se fera uniquement dans l'allée centrale dès le 7 juillet.
+## Rapport financier
 
-## Rapport financier 2024-25
+Clôture des comptes au 26 mars 2026. Plus de détails dans le [bilan financier](bilan.md).
 
-Clôture des comptes au 30 avril 2025. Plus de détails dans le [bilan financier](bilan.md).
+| **Recettes**            |  **2 012,51 €** |           |
+| ----------------------- | --------------: | --------: |
+| **Dépenses**            |  **1 322,26 €** | (+ 1 000) |
+| **Solde au 26/03/2025** | **24 383,46 €** | (+ 1 000) |
 
-| **Recettes**            |  **2 007,62 €** |
-| ----------------------- | --------------: |
-| **Dépenses**            |    **313,15 €** |
-| **Solde au 30/04/2025** | **23 587,19 €** |
+Budget voté 2026 : **1 050 €** (matériel, apéritifs, égouts)
+
+L'écart s'explique par :
+- Achat de matériel pour les bandes de parking (+ 184,92 €)
+- Entretien des égouts (789,80 € pour 700 € prévus)
 
 ### Vote
 
 | Résolution 2          | Pour | Contre | Abs. | Résultat                   |
 | :-------------------- | :--: | :----: | :--: | :------------------------- |
-| **Rapport financier** |  15  |   0    |  0   | ➡️ Approuvé à l’unanimité. |
+| **Rapport financier** |  17  |   0    |  0   | ➡️ Approuvé à l’unanimité. |
 
 ## Projets, budget prévisionnel et cotisation annuelle
 
@@ -90,10 +116,13 @@ Clôture des comptes au 30 avril 2025. Plus de détails dans le [bilan financier
 
 - 🎉 Organisation de la **Fête des voisins**
 	- **29 mai 2026**
+	- Budget prévisionnel : 0 € — chacun ramène
+- 🧭 Assemblée générale 2027
+	- **25 mars 2027** (hors vacances scolaires) — Salle Le Genêt (à réserver)
 	- Budget prévisionnel : apéritif 50 €
-- 🧭 Assemblée générale 2026
-	- mars 2026 (hors vacances scolaires) - salle réservée
-	- Budget prévisionnel : apéritif 50 €
+- 🎉 Organisation de la **Fête des voisins 2027**
+	- **vendredi 28 mai 2027**
+	- Budget prévisionnel : 0 € — chacun ramène
 
 > [!IMPORTANT] Evolution depuis l'AG : assemblée générale 2026
 > Organisation de la prochaine AG le **26 mars 2026** (salle Le Genêt réservée).
@@ -101,54 +130,63 @@ Clôture des comptes au 30 avril 2025. Plus de détails dans le [bilan financier
 ### Entretien
 
 - 🌿 Planification de l’**entretien des espaces verts**
-	- Automne : **11 octobre 2025**
 	- Printemps : **25 avril 2026**
-	- Budget prévisionnel : apéritif 100 €
+	- Automne : **10 octobre 2026**
+	- Printemps 2027 : **3 avril 2027**
+	- Budget : apéritif 100 €
+- 🌱 Amélioration des espaces verts
+	- Rond-point : remplacer les lavandes
+		- Attention : réseaux enterrés sous le rond-point
+		- Enlever les lavandes
+		- Remplacer par des iris (bulbes)
+	- Parterres : embellir et faciliter l'entretien
+		- Contacter un paysagiste pour devis/projets (voir avec Karl)
+	- Budget : à préciser (voir avec devis)
 - 🧼 Vérification et **entretien des égouts**
-	- à prévoir début 2026
+	- A prévoir début 2031
 	- Passage caméra, curage/hydrocurage, diagnostic
-	- Budget : 700 €
+	- Budget : 800 €
+
+> [!IMPORTANT] Evolution depuis l'AG
+> Les lavandes ont été enlevées pendant l'entretien des espaces verts du 25 avril 2026.
 
 ### Administration
 
-- 🌐 Lancement d’un **site internet de l’ASL** et dématérialisation des communications (PV, convocations…)
-	- Location domaine internet (10 ans)
-	- Budget prévisionnel : 150 €
-- 🧾 **Renouvellement des statuts** pour intégrer la dématérialisation et mise en conformité (adresse du président) prévu à l'AG 2026
+- 🧾 **Renouvellement des statuts** pour intégrer la dématérialisation et mise en conformité (adresse du président) prévu d'ici l'AG 2027
+- 🌐 Renouvellement site internet
+	-  A prévoir en 2035
 
-> [!IMPORTANT] Evolution depuis l'AG : site internet
-> Achat du site internet [lesamarels.fr](https://lesamarels.fr) (10 ans) : 72 €.
+### Ramassage des déchets
+
+- Ramassage uniquement dans l'allée centrale depuis le 7 juillet 2025
+- Adaptation en 2 points de collecte : croisement central et entrée du lotissement
+- Rencontre avec le SMND et Les Cantarelles le 26 mars 2026
+	- Point de collecte unique à l'entrée des lotissements non-envisageable
+	- Proposition SMND : remplacement de l'alarme de recul (criquet plutôt que bip-bip)
+- Installation sur le rond-point — attention : accord Cantarelles ?
+- Déchets ménagers : Réduire le nombre de bacs sorti au niveau du rond-point
+
 
 ### Participation annuelle
 
-- Budget prévisionnel : 1 050 €
+- Budget prévisionnel : 400 €
+	- Assurance — 250 €
+	- Apéritifs — 150 €
 - Montant proposé par lot : 80 €
 
 ### Vote
 
 | Résolution 3                    | Pour | Contre | Abs. | Résultat                   |
 | :------------------------------ | :--: | :----: | :--: | :------------------------- |
-| **Projets, budget, cotisation** |  15  |   0    |  0   | ➡️ Approuvé à l’unanimité. |
+| **Projets, budget, cotisation** |  17  |   0    |  0   | ➡️ Approuvé à l’unanimité. |
 
 ## Mandats du syndicat
 
-Les mandats de trésorier et président arrivent à expiration.
-Nancy Mouchet et Geoffrey Petri proposent de poursuivre à leurs rôles respectifs (trésorier et président).
-
-### Vote
-
-| Résolution 4           | Pour | Contre | Abs. | Résultat                   |
-| :--------------------- | :--: | :----: | :--: | :------------------------- |
-| **Election trésorier** |  15  |   0    |  0   | ➡️ Approuvé à l’unanimité. |
-| **Election président** |  15  |   0    |  0   | ➡️ Approuvé à l’unanimité. |
-
-### Nouveaux mandats
-
-| Rôle           | Nom              | Mandat    |
-| -------------- | ---------------- | --------- |
-| **Président**  | Geoffrey Petri   | 2025-2028 |
-| **Trésorier**  | Nancy Mouchet    | 2025-2028 |
-| **Secrétaire** | Isabelle Alberti | 2024-2027 |
+| Rôle           | Nom              | Mandat      |
+| -------------- | ---------------- | ----------- |
+| **Président**  | Geoffrey Petri   | 2025 — 2028 |
+| **Trésorier**  | Nancy Mouchet    | 2025 — 2028 |
+| **Secrétaire** | Isabelle Alberti | 2024 — 2027 |
 
 ➡️ **Prochain renouvellement : prévu à l’AG 2027.**
 
@@ -196,25 +234,11 @@ Inscriptions possibles :
 
 ## Questions diverses
 
-### Marquage des places de parking (5 et 3 places)
-
-*Sujet soulevé par Isabelle, avait déjà été soulevé en 2023.*
-
-- Décision : à faire
-- Action : se renseigner auprès de la mairie et budgéter [Geoffrey]
-
-### Création d'un groupe de communication interne
-
-*Sujet soulevé par Geoffrey.*
-
-Objectifs : faciliter la communication (rappels espaces verts, etc.), notifier des événements, etc.
-
-- Décision : en cours
-- Action : obtenir l'accord des propriétaires et les ajouter au groupe [Isabelle/Geoffrey]
+_aucune question_
 
 ## Clôture de la séance
 
-La séance est levée à **20h41**.
+La séance est levée à **21h00**.
 
 > [!important] Un grand merci pour votre présence à cette assemblée générale.
 
@@ -222,22 +246,9 @@ La séance est levée à **20h41**.
 
 | Résolutions                         | Pour | Contre | Abs. | Résultat                   |
 | :---------------------------------- | :--: | :----: | :--: | :------------------------- |
-| **R1. Rapport moral**               |  15  |   0    |  0   | ➡️ Approuvé à l’unanimité. |
-| **R2. Rapport financier**           |  15  |   0    |  0   | ➡️ Approuvé à l’unanimité. |
-| **R3. Projets, budget, cotisation** |  15  |   0    |  0   | ➡️ Approuvé à l’unanimité. |
-| **R4.1 Election trésorier**         |  15  |   0    |  0   | ➡️ Approuvé à l’unanimité. |
-| **R4.2 Election président**         |  15  |   0    |  0   | ➡️ Approuvé à l’unanimité. |
-
-| **Décisions**                                          | Statut   |
-| ------------------------------------------------------ | :------: |
-| **D1. Marquage des places de parking (5 et 3 places)** | à faire  |
-| **D2. Création d'un groupe de communication interne**  | en cours |
-| **D3. Organisation de la Fête des Voisins (29 mai 2026)** | à faire  |
-| **D4. Organisation de l'AG 2026 (mars 2026)**          | fait     |
-| **D5. Entretien des égouts**                           | à faire  |
-| **D6. Lancement d'un site internet**                   | fait     |
-| **D7. Renouvellement des statuts**                     | à faire  |
-
+| **R1. Rapport moral**               |  17  |   0    |  0   | ➡️ Approuvé à l’unanimité. |
+| **R2. Rapport financier**           |  17  |   0    |  0   | ➡️ Approuvé à l’unanimité. |
+| **R3. Projets, budget, cotisation** |  17  |   0    |  0   | ➡️ Approuvé à l’unanimité. |
 
 ---
 
